@@ -1,4 +1,4 @@
-# Welcome to my Personal Website!
+# Welcome to my Personal Website
 A portfolio-style web application where I explore and improve my front-end and back-end skills using HTML, React.js, CSS, and Python.
 
 ## About This Project
